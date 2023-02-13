@@ -63,7 +63,7 @@ class _nineState extends State<nine> {
                     children: [
                       SizedBox(height: 15,),
                       Text(
-                        "snehal sangani",
+                        "Prina Gangani",
                         style: TextStyle(
                             color: Colors.black,
                             letterSpacing: 1,
@@ -122,7 +122,7 @@ class _nineState extends State<nine> {
                     child: Column(
                       children: [
                         Text(
-                          "1.5K",
+                          "2.5K",
                           style: TextStyle(
                               color: Colors.black,
                               fontWeight: FontWeight.bold,
@@ -141,7 +141,7 @@ class _nineState extends State<nine> {
                     child: Column(
                       children: [
                         Text(
-                          "2.5K",
+                          "2.8K",
                           style: TextStyle(
                               color: Colors.black,
                               fontWeight: FontWeight.bold,
@@ -160,7 +160,7 @@ class _nineState extends State<nine> {
                     child: Column(
                       children: [
                         Text(
-                          "10K",
+                          "9K",
                           style: TextStyle(
                               color: Colors.black,
                               fontWeight: FontWeight.bold,
@@ -179,7 +179,7 @@ class _nineState extends State<nine> {
                     child: Column(
                       children: [
                         Text(
-                          "1.2K",
+                          "1.5K",
                           style: TextStyle(
                               color: Colors.black,
                               fontWeight: FontWeight.bold,
@@ -224,7 +224,7 @@ class _nineState extends State<nine> {
                       children: [
                         Text("Website",style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold,letterSpacing: 2),),
                         SizedBox(height: 5,),
-                        Text("about.me/snehalsangani",style: TextStyle(fontSize: 12,letterSpacing: 2),),
+                        Text("about.me/prinagangani",style: TextStyle(fontSize: 12,letterSpacing: 2),),
                       ],
                     ),
                     SizedBox(height: 20,),
@@ -232,7 +232,7 @@ class _nineState extends State<nine> {
                       children: [
                         Text("Phone",style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold,letterSpacing: 2),),
                         SizedBox(height: 5,),
-                        Text("9825486060",style: TextStyle(fontSize: 12,letterSpacing: 2),),
+                        Text("9824374131",style: TextStyle(fontSize: 12,letterSpacing: 2),),
                       ],
                     ),
                     SizedBox(height: 20,),
@@ -240,7 +240,7 @@ class _nineState extends State<nine> {
                       children: [
                         Text("Youtuber",style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold,letterSpacing: 2),),
                         SizedBox(height: 5,),
-                        Text("youtube.com/s_sangani",style: TextStyle(fontSize: 12,letterSpacing: 2),),
+                        Text("youtube.com/prina",style: TextStyle(fontSize: 12,letterSpacing: 2),),
                       ],
                     ),
                   ],
@@ -260,7 +260,7 @@ class _nineState extends State<nine> {
                       children: [
                         Text("Email",style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold,letterSpacing: 2),),
                         SizedBox(height: 5,),
-                        Text("snehalsangani@gmail.com",style: TextStyle(fontSize: 12,letterSpacing: 2),),
+                        Text("prinagangani10@gmail.com",style: TextStyle(fontSize: 12,letterSpacing: 2),),
                       ],
                     ),
                     SizedBox(height: 20,),
@@ -268,7 +268,7 @@ class _nineState extends State<nine> {
                       children: [
                         Text("Fcaebook",style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold,letterSpacing: 2),),
                         SizedBox(height: 5,),
-                        Text("facebook.com/snehal_s",style: TextStyle(fontSize: 12,letterSpacing: 2),),
+                        Text("facebook.com/prina",style: TextStyle(fontSize: 12,letterSpacing: 2),),
                       ],
                     ),
                   ],
